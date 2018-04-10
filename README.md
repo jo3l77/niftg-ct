@@ -1,1 +1,0 @@
-# niftg-ct
